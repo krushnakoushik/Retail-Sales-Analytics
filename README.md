@@ -31,7 +31,7 @@ Power BI Desktop: Power Query (M), star-schema data model, DAX (time intelligenc
 
 ## Data Quality: What Was Found and Decided
 
-Most of the effort went into discovering that the data could not be taken at face value. Full detail is in [`docs/Data_Quality_Log.md`](Data_Quality_Log.md).
+Most of the effort went into discovering that the data could not be taken at face value. Full detail is in [`Data_Quality_Log.md`](Data_Quality_Log.md).
 
 | Issue | Decision |
 |---|---|
@@ -67,7 +67,7 @@ Page images are in [`images/`](images/).
 - **Delivery is not a bottleneck.** Average lag is 2.45 days, maximum 5.
 - **Foodgrains is the third-largest category and the slowest-growing sizeable one** (+11%) while Gourmet and World Food grows 63%.
 
-Full numbers per page are in [`findings/Retail_Analysis_Findings.md`](Retail_Analysis_Findings.md).
+Full numbers per page are in [`Retail_Analysis_Findings.md`](Retail_Analysis_Findings.md).
 
 ## Recommendations
 
